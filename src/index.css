@@ -14,3 +14,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.everything {
+  width: 600px;
+  margin: 0 auto;
+  overflow: auto;
+}
+.results {
+  width: 280px;
+  border-right: 1px solid #000;
+  float: left;
+}
+.results2 {
+  width: 280px;
+  border: none;
+  float: right;
+}
